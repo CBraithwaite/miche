@@ -68,7 +68,7 @@ export default function AboutPage() {
               <span className="text-teal-600">smart real estate</span>
             </h1>
             <p className="text-body mt-6">
-              Founded on the belief that expert real estate guidance shouldn't
+              Founded on the belief that expert real estate guidance shouldn&apos;t
               be reserved for institutions, Miche Solutions makes professional
               investment consultation accessible to everyone — from first-time
               investors to seasoned portfolio managers.
@@ -96,7 +96,7 @@ export default function AboutPage() {
                 gap.
               </p>
               <p className="text-body mt-4">
-                Today, we've helped hundreds of clients across North America
+                Today, we&apos;ve helped hundreds of clients across North America
                 build diversified real estate portfolios that generate lasting
                 wealth. Our approach combines institutional-grade analysis with
                 personalized service.
