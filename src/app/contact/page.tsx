@@ -16,7 +16,7 @@ const contactInfo = [
   },
   {
     title: "Call Us",
-    detail: "+1 (555) 123-4567",
+    detail: "+1 (862) 123-4567",
     description: "Monday — Friday, 9AM — 6PM EST.",
     icon: (
       <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
