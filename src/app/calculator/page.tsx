@@ -6,12 +6,12 @@ import Link from "next/link";
 export default function CalculatorPage() {
   const [purchasePrice, setPurchasePrice] = useState(300000);
   const [downPayment, setDownPayment] = useState(20);
-  const [interestRate, setInterestRate] = useState(6.5);
+  const [interestRate, setInterestRate] = useState(5.8);
   const [loanTerm, setLoanTerm] = useState(30);
-  const [monthlyRent, setMonthlyRent] = useState(2200);
+  const [monthlyRent, setMonthlyRent] = useState(2800);
   const [propertyTaxRate, setPropertyTaxRate] = useState(1.2);
-  const [insurance, setInsurance] = useState(150);
-  const [maintenance, setMaintenance] = useState(200);
+  const [insurance, setInsurance] = useState(125);
+  const [maintenance, setMaintenance] = useState(130);
   const [vacancy, setVacancy] = useState(5);
   const [appreciation, setAppreciation] = useState(3);
 
